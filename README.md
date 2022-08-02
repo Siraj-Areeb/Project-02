@@ -9,7 +9,7 @@ Hands-on Experience:
   - Absolute
 - Background styling
   - Background color
-  - Backgroung image
+  - Background image
   - Linear Gradient
 - Margins and Paddings
 - Google-fonts insertion
