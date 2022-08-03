@@ -14,4 +14,4 @@ Hands-on Experience:
 - Margins and Paddings
 - Google-fonts insertion
 
-> Still under Progress, some bugs to be removed!
+![final](final.png)
